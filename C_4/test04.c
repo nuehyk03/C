@@ -17,6 +17,9 @@ int main_test04(void)
 
     c500 = change / 500;
     change = change % 500;
+    
+    c100 = change / 100;
+    change = change % 100;
 
 
     printf("거스름돈은 다음과 같습니다\n");
