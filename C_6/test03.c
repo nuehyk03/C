@@ -2,6 +2,7 @@
 
 int main(void) {
     int i= 1, n, sum=0;
+    //n이하의 짝수의 합
     
     printf("정수를 입력하시오:");
     scanf("%d", &n);
