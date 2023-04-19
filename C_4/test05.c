@@ -6,6 +6,7 @@ int main(void)
     //세자리수 * 세자리수
     int n1; 
     int n2;
+    printf("두개의 세자리수를 입력하세요:");
     scanf("%d %d", &n1, &n2);
 
     int n3 = n1 * (n2 % 10); //10으로 나눈 나머지 값
