@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//정올 2514
 int main() {
 char arr[10001];
 int i,KOI = 0, IOI = 0 ;
